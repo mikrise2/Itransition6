@@ -1,0 +1,9 @@
+{
+  "name": "Itransition6",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@stomp/stompjs": "^6.1.0",
+    "sockjs-client": "^1.5.1"
+  }
+}
